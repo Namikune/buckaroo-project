@@ -1,15 +1,19 @@
 import { useState } from 'react'
 import './App.css'
-import './components/navbar.tsx'
-import NavBar from './components/navbar.tsx'
+import './pages/navbar.tsx'
+import BookUs from './pages/book-us.tsx'
+
+
+
 
 function App() {
-
+  
   return (
-    
-    < NavBar />
-    
-  )
-}
+  <>
+      
+     
+   </>
+    );
+  }
 
 export default App
